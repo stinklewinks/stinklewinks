@@ -2,7 +2,7 @@
 
 ![Kiwi Engine](/Kiwi%20Engine.png)
 
-[Kiwi Engine](https://github.com/citrusworx/)
+[Kiwi Engine](https://github.com/stinklewinks/kiwi)
 
 ![Juice](Juice.png)
 
